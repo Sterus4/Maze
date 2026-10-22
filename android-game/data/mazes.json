@@ -1,0 +1,2641 @@
+{
+  "schema": 1,
+  "mazes": [
+    {
+      "id": "intro",
+      "title": "Знакомство · 12 комнат",
+      "seed": "19",
+      "room_count": 12,
+      "path_percent": 50,
+      "entrance": 10,
+      "exit": 3,
+      "path_rooms": 6,
+      "rooms": [
+        {
+          "id": 1,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 8,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 12,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 5,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 11,
+              "wall": 2
+            },
+            {
+              "kind": "exit",
+              "target": -1,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 7,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 6,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 8,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 9,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 5,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 7,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 4,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 6,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 12,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 1,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 5,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 5,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 12,
+              "wall": 2
+            },
+            {
+              "kind": "entrance",
+              "target": -1,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 2,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 7,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 10,
+              "wall": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "explore",
+      "title": "Исследование · 40 комнат",
+      "seed": "7",
+      "room_count": 40,
+      "path_percent": 40,
+      "entrance": 6,
+      "exit": 19,
+      "path_rooms": 16,
+      "rooms": [
+        {
+          "id": 1,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 10,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 25,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 29,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 40,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 19,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 26,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 27,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 28,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 31,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 37,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 18,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 21,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 36,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 38,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 36,
+              "wall": 2
+            },
+            {
+              "kind": "entrance",
+              "target": -1,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 39,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 13,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 34,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 12,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 22,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 1,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 16,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 23,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 31,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 9,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 40,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 8,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 20,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 36,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 17,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 18,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 32,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 29,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 30,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 39,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 11,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 20,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 14,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 32,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 4,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 14,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 20,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 21,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 2,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 26,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 39,
+              "wall": 3
+            },
+            {
+              "kind": "exit",
+              "target": -1,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 13,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 16,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 18,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 32,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 4,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 18,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 9,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 31,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 11,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 40,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 1,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 2,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 19,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 28,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 27,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 31,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 35,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 1,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 15,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 15,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 11,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 22,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 28,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 14,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 17,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 20,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 33,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 32,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 8,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 28,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 37,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 5,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 6,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 13,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 38,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 35,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 5,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 36,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 7,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 15,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 19,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 1,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 12,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 24,
+              "wall": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "classic",
+      "title": "Большой лабиринт · 100 комнат",
+      "seed": "42",
+      "room_count": 100,
+      "path_percent": 30,
+      "entrance": 43,
+      "exit": 34,
+      "path_rooms": 30,
+      "rooms": [
+        {
+          "id": 1,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 23,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 40,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 99,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 9,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 51,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 71,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 17,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 25,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 48,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 94,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 21,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 30,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 57,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 7,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 67,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 6,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 27,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 54,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 97,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 2,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 39,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 66,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 92,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 56,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 74,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 62,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 16,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 44,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 55,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 68,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 17,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 72,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 92,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 13,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 71,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 79,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 100,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 14,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 25,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 78,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 62,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 86,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 80,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 81,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 4,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 30,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 64,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 31,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 33,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 1,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 24,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 23,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 75,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 99,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 17,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 72,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 99,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 29,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 86,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 7,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 67,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 84,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 88,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 58,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 98,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 26,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 62,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 4,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 21,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 64,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 22,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 38,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 60,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 85,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 43,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 22,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 89,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 97,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 48,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 88,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 99,
+              "wall": 3
+            },
+            {
+              "kind": "exit",
+              "target": -1,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 73,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 70,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 46,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 31,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 70,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 77,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 10,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 1,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 75,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 49,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 95,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 43,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 82,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 92,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 96,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 32,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 42,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 65,
+              "wall": 2
+            },
+            {
+              "kind": "entrance",
+              "target": -1,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 13,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 50,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 61,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 91,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 37,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 49,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 73,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 60,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 85,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 87,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 34,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 72,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 75,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 41,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 46,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 86,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 93,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 45,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 61,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 81,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 84,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 2,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 52,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 66,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 51,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 69,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 79,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 7,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 67,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 13,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 68,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 11,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 57,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 5,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 56,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 64,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 73,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 28,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 73,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 76,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 98,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 71,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 31,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 47,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 87,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 45,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 50,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 12,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 19,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 29,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 86,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 74,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 21,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 30,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 57,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 43,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 10,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 51,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 83,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 67,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 6,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 27,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 54,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 13,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 55,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 69,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 53,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 79,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 36,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 38,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 2,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 16,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 59,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 14,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 25,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 48,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 94,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 35,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 46,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 57,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 58,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 74,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 11,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 63,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 79,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 24,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 40,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 48,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 94,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 58,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 38,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 93,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 18,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 83,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 16,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 53,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 69,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 74,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 80,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 20,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 81,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 20,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 50,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 80,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 97,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 42,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 90,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 96,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 66,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 78,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 84,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 27,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 50,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 31,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 47,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 19,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 26,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 49,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 62,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 47,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 60,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 27,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 34,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 89,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 33,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 82,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 96,
+              "wall": 0
+            }
+          ]
+        },
+        {
+          "id": 91,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 45,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 92,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 10,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 15,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 42,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 49,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 77,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 3,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 72,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 75,
+              "wall": 1
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 41,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 96,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 42,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 82,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 90,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 8,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 33,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 81,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 98,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 28,
+              "wall": 3
+            },
+            {
+              "kind": "room",
+              "target": 58,
+              "wall": 2
+            }
+          ]
+        },
+        {
+          "id": 99,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 1,
+              "wall": 1
+            },
+            {
+              "kind": "room",
+              "target": 24,
+              "wall": 0
+            },
+            {
+              "kind": "room",
+              "target": 25,
+              "wall": 2
+            },
+            {
+              "kind": "room",
+              "target": 34,
+              "wall": 3
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "doors": [
+            {
+              "kind": "room",
+              "target": 16,
+              "wall": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

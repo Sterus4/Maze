@@ -1,3 +1,9 @@
 __pycache__/
 *.py[cod]
 .venv/
+.tools/
+build/
+android-game/.godot/
+android-game/export_credentials.cfg
+*.apk
+*.keystore
